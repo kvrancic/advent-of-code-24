@@ -2,6 +2,7 @@
 task: sum of element-wise difference between two sorted arrays
 '''
 
+
 with open('input.txt', 'r') as file:
     rows = file.readlines()
 
